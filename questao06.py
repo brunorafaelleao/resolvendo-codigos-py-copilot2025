@@ -37,6 +37,4 @@ Quando você usa [::-1]:
 deixa início e fim em branco (ou seja, pega a string toda),
 
 e define o passo como -1, o que significa “andar de trás pra frente”.
-
-
 """
